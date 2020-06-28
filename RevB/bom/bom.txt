@@ -1,0 +1,11 @@
+ M
+ a
+ i
+ n
+Printed:
+ 2|  2 EOTray_q1.stl
+ 2|  2 EOTray_q2.stl
+ 1|  1 EOTray_reducer.stl
+
+Assemblies:
+  1 main_assembly

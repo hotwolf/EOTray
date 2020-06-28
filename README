@@ -1,0 +1,23 @@
+EOTray
+======
+A 3D printed tray for essential oil bottles.
+
+Directories:
+============
+|
++-RevA                  - Fits 72 bottles (tight fit)
+|
++-RevB                  - Fits 60 bottles (loose fit)
+
+
+The EOTray design is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with the EOTray design. If not, see
+<http://www.gnu.org/licenses/>.
+
+This project makes use of the NopSCADlib library
+(see https://github.com/nophead/NopSCADlib).

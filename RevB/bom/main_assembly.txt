@@ -1,0 +1,5 @@
+main_assembly:
+Printed:
+  2 EOTray_q1.stl
+  2 EOTray_q2.stl
+  1 EOTray_reducer.stl
