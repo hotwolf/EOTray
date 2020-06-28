@@ -45,6 +45,8 @@ openscad.echo: \
 	/home/dirk/Tools/NopSCADlib/printed/fan_guard.scad \
 	/home/dirk/Tools/NopSCADlib/utils/dogbones.scad \
 	/home/dirk/Tools/NopSCADlib/vitamins/pcb.scad \
+	/home/dirk/Tools/NopSCADlib/vitamins/spools.scad \
+	/home/dirk/Tools/NopSCADlib/vitamins/smds.scad \
 	/home/dirk/Tools/NopSCADlib/vitamins/dip.scad \
 	/home/dirk/Tools/NopSCADlib/vitamins/led.scad \
 	/home/dirk/Tools/NopSCADlib/vitamins/extrusion_brackets.scad \
@@ -55,6 +57,7 @@ openscad.echo: \
 	/home/dirk/Tools/NopSCADlib/utils/core/rounded_rectangle.scad \
 	/home/dirk/Tools/NopSCADlib/vitamins/iec.scad \
 	/home/dirk/Tools/NopSCADlib/core.scad \
+	/home/dirk/Projects/EOTray/RevA/scad/EOtray.scad \
 	/home/dirk/Tools/NopSCADlib/vitamins/iecs.scad \
 	/home/dirk/Tools/NopSCADlib/utils/maths.scad \
 	/home/dirk/Tools/NopSCADlib/vitamins/pcbs.scad \
@@ -82,9 +85,6 @@ openscad.echo: \
 	/home/dirk/Tools/NopSCADlib/utils/core/core.scad \
 	/home/dirk/Tools/NopSCADlib/vitamins/batteries.scad \
 	/home/dirk/Tools/NopSCADlib/vitamins/geared_steppers.scad \
-	/home/dirk/Tools/NopSCADlib/vitamins/spools.scad \
-	/home/dirk/Tools/NopSCADlib/vitamins/smds.scad \
-	/home/dirk/Projects/EOTray/scad/EOtray.scad \
 	/home/dirk/Tools/NopSCADlib/vitamins/screws.scad \
 	/home/dirk/Tools/NopSCADlib/vitamins/leadnuts.scad \
 	/home/dirk/Tools/NopSCADlib/utils/core/global.scad \

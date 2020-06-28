@@ -1,5 +1,5 @@
 <a name="TOP"></a>
-# EOTray
+# RevA
 This is a tray foe essential oil bottles. It is designed to fit inside a box
 Din A4 footprint. The tray is divided into four pieces to fit on a standard 
 3D printer bed.
