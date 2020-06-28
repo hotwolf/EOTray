@@ -1,0 +1,5 @@
+{
+    "EOTray_reducer.stl": 0.62, 
+    "EOTray_q2.stl": 37.818, 
+    "EOTray_q1.stl": 36.495
+}
