@@ -117,13 +117,14 @@ module EOTray_reducer_stl() {
     color(pp1_colour)
     difference() {
         union() {
-            translate([0,0,0])  poly_cylinder(h=25,r=14.9);
-            translate([0,0,15]) cylinder(10,d1=27.9,d2=31.9);
+            translate([0,0,0])  poly_cylinder(h=25,r=14.7);
+            translate([0,0,15]) cylinder(10,d1=27.9,d2=31.6);
         }
         union() {
             
             translate([0,0,-2])  poly_cylinder(h=30,r=12);
             translate([0,0,15]) cylinder(15,d1=22,d2=28);
+            translate([-18,0,0]) rotate([0,90,0]) cylinder(36,d=15);
          }
     }
 }
