@@ -110,9 +110,9 @@ module EOTray_q2_stl() {
     }            
 }    
  
-//! Reducer piece        
-module EOTray_reducer_stl() {
-    stl("EOTray_reducer");
+//! Reducer piece - 24mm       
+module EOTray_reducer_24mm_stl() {
+    stl("EOTray_reducer_24mm");
 
     color(pp1_colour)
     difference() {
@@ -124,6 +124,25 @@ module EOTray_reducer_stl() {
             
             translate([0,0,-2])  poly_cylinder(h=30,r=12);
             translate([0,0,15]) cylinder(15,d1=22,d2=28);
+            translate([-18,0,0]) rotate([0,90,0]) cylinder(36,d=15);
+         }
+    }
+}
+
+//! Reducer piece - 26mm       
+module EOTray_reducer_26mm_stl() {
+    stl("EOTray_reducer_26mm");
+
+    color(pp1_colour)
+    difference() {
+        union() {
+            translate([0,0,0])  poly_cylinder(h=25,r=14.7);
+            translate([0,0,15]) cylinder(10,d1=27.9,d2=31.6);
+        }
+        union() {
+            
+            translate([0,0,-2])  poly_cylinder(h=30,r=13);
+            translate([0,0,15]) cylinder(15,d1=24,d2=26);
             translate([-18,0,0]) rotate([0,90,0]) cylinder(36,d=15);
          }
     }
@@ -143,7 +162,8 @@ module main_assembly() {
     translate([212,300,0]) rotate([0,0,180]) explode([-10,-10,0]) EOTray_q1_stl();  
     translate([212,300,0]) rotate([0,0,180]) explode([10,-10,0])  EOTray_q2_stl();
         
-    translate([17,17,2]) explode([-10,-10,40]) EOTray_reducer_stl();   
+    translate([17,17,2]) explode([-10,-10,40]) EOTray_reducer_24mm_stl();   
+    translate([49+4/13,17,2]) explode([-10,-10,40]) EOTray_reducer_26mm_stl();   
     }    
 }
 

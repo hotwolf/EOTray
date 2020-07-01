@@ -22,8 +22,9 @@ Din A4 footprint. The tray is divided into four pieces to fit on a standard
 |  | | **3D printed parts** |
 | &nbsp;&nbsp;2&nbsp; |  &nbsp;&nbsp;2&nbsp; | &nbsp;&nbsp;EOTray_q1.stl |
 | &nbsp;&nbsp;2&nbsp; |  &nbsp;&nbsp;2&nbsp; | &nbsp;&nbsp;EOTray_q2.stl |
-| &nbsp;&nbsp;1&nbsp; |  &nbsp;&nbsp;1&nbsp; | &nbsp;&nbsp;EOTray_reducer.stl |
-| &nbsp;&nbsp;5&nbsp; | &nbsp;&nbsp;5&nbsp; | &nbsp;&nbsp;Total 3D printed parts count |
+| &nbsp;&nbsp;1&nbsp; |  &nbsp;&nbsp;1&nbsp; | &nbsp;&nbsp;EOTray_reducer_24mm.stl |
+| &nbsp;&nbsp;1&nbsp; |  &nbsp;&nbsp;1&nbsp; | &nbsp;&nbsp;EOTray_reducer_26mm.stl |
+| &nbsp;&nbsp;6&nbsp; | &nbsp;&nbsp;6&nbsp; | &nbsp;&nbsp;Total 3D printed parts count |
 
 [Top](#TOP)
 
@@ -32,9 +33,14 @@ Din A4 footprint. The tray is divided into four pieces to fit on a standard
 ## Main Assembly
 ### 3D Printed parts
 
-| 2 x EOTray_q1.stl | 2 x EOTray_q2.stl | 1 x EOTray_reducer.stl |
+| 2 x EOTray_q1.stl | 2 x EOTray_q2.stl | 1 x EOTray_reducer_24mm.stl |
 |---|---|---|
-| ![EOTray_q1.stl](stls/EOTray_q1.png) | ![EOTray_q2.stl](stls/EOTray_q2.png) | ![EOTray_reducer.stl](stls/EOTray_reducer.png) 
+| ![EOTray_q1.stl](stls/EOTray_q1.png) | ![EOTray_q2.stl](stls/EOTray_q2.png) | ![EOTray_reducer_24mm.stl](stls/EOTray_reducer_24mm.png) 
+
+
+| 1 x EOTray_reducer_26mm.stl |
+|---|
+| ![EOTray_reducer_26mm.stl](stls/EOTray_reducer_26mm.png) 
 
 
 

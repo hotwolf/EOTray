@@ -5,7 +5,8 @@
 Printed:
  2|  2 EOTray_q1.stl
  2|  2 EOTray_q2.stl
- 1|  1 EOTray_reducer.stl
+ 1|  1 EOTray_reducer_24mm.stl
+ 1|  1 EOTray_reducer_26mm.stl
 
 Assemblies:
   1 main_assembly

@@ -1,5 +1,7 @@
 {
     "EOTray_reducer.stl": 1.626, 
-    "EOTray_q2.stl": 36.628, 
-    "EOTray_q1.stl": 20.137
+    "EOTray_reducer_26mm.stl": 1.571, 
+    "EOTray_q2.stl": 36.899, 
+    "EOTray_reducer_24mm.stl": 1.701, 
+    "EOTray_q1.stl": 19.869
 }

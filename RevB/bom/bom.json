@@ -6,16 +6,20 @@
         "assemblies": {}, 
         "routed": {}, 
         "printed": {
-            "EOTray_reducer.stl": {
-                "count": 1, 
-                "colour": "[0, 0.572549, 0]"
-            }, 
             "EOTray_q2.stl": {
                 "count": 2, 
                 "colour": "[0, 0.572549, 0]"
             }, 
+            "EOTray_reducer_26mm.stl": {
+                "count": 1, 
+                "colour": "[0, 0.572549, 0]"
+            }, 
             "EOTray_q1.stl": {
                 "count": 2, 
+                "colour": "[0, 0.572549, 0]"
+            }, 
+            "EOTray_reducer_24mm.stl": {
+                "count": 1, 
                 "colour": "[0, 0.572549, 0]"
             }
         }, 
